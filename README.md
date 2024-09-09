@@ -11,6 +11,7 @@ apos terminar a instalção execute o comando-> pnpm run dev:all  <- ira iniciar
 http://localhost:3000/login
 
 Email para teste -> email_teste@gmail.com
+
 Senha-> 123
 
 ira imprimir uma mensagem 'Login realizado com sucesso!' caso contrario 'E-mail ou senha inválidos.'
