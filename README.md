@@ -4,7 +4,9 @@ API .Net 8.0 login
 
 para acessar utilize os dados abaixo:
 
-inicie com o seguinte comando-> pnpm run dev:all  <- ira iniciar junto com o API.
+primeiro execute o comando ->  pnpm install
+
+apos terminar a instalção execute o comando-> pnpm run dev:all  <- ira iniciar junto com o API.
 
 http://localhost:3000/login
 
