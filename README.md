@@ -1,4 +1,4 @@
-===================ETAPA 2===============================================================
+==========ETAPA 2==============
 
 API .Net 8.0 login
 
@@ -19,7 +19,7 @@ obs: caso nao inicie junto com api pelo 'pnpm run dev:all' executa com os cmd se
 front - > pnpm dev
 API -> cd LoginAPI; dotnet run
 
-===================ETAPA 1===============================================================
+=======ETAPA 1===================
 
 Teste de Nivelamento com Next.js, Talwind e Shadcn
 
