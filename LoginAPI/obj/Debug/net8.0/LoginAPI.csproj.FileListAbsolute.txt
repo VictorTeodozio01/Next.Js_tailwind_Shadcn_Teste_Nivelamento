@@ -1,0 +1,124 @@
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\appsettings.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\LoginAPI.exe
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\LoginAPI.deps.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\LoginAPI.runtimeconfig.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\LoginAPI.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\LoginAPI.pdb
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\LoginAPI.csproj.AssemblyReference.cache
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\LoginAPI.AssemblyInfoInputs.cache
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\LoginAPI.AssemblyInfo.cs
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\LoginAPI.csproj.CoreCompileInputs.cache
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\staticwebassets\msbuild.LoginAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LoginAPI.props
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoginAPI.props
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoginAPI.props
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\scopedcss\bundle\LoginAPI.styles.css
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\LoginAPI.csproj.Up2Date
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\LoginAPI.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\refint\LoginAPI.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\LoginAPI.pdb
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\LoginAPI.genruntimeconfig.cache
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 02\LoginAPI\obj\Debug\net8.0\ref\LoginAPI.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\appsettings.Development.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\appsettings.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\LoginAPI.exe
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\LoginAPI.deps.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\LoginAPI.runtimeconfig.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\LoginAPI.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\LoginAPI.pdb
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\LoginAPI.csproj.AssemblyReference.cache
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\LoginAPI.AssemblyInfoInputs.cache
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\LoginAPI.AssemblyInfo.cs
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\LoginAPI.csproj.CoreCompileInputs.cache
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\staticwebassets\msbuild.LoginAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\staticwebassets\msbuild.build.LoginAPI.props
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoginAPI.props
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoginAPI.props
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\scopedcss\bundle\LoginAPI.styles.css
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\LoginAPI.csproj.Up2Date
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\LoginAPI.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\refint\LoginAPI.dll
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\LoginAPI.pdb
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\LoginAPI.genruntimeconfig.cache
+D:\Software Developer\Next.JS_tailwind_Shadcn\my-app 03\loginapi\obj\Debug\net8.0\ref\LoginAPI.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\LoginAPI.exe
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\LoginAPI.deps.json
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\LoginAPI.runtimeconfig.json
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\LoginAPI.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\LoginAPI.pdb
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.AssemblyInfo.cs
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.sourcelink.json
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\staticwebassets\msbuild.LoginAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LoginAPI.props
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoginAPI.props
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoginAPI.props
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\scopedcss\bundle\LoginAPI.styles.css
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.csproj.Up2Date
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\refint\LoginAPI.dll
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.pdb
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\LoginAPI.genruntimeconfig.cache
+C:\Users\victo\Downloads\my-app 03\LoginAPI\obj\Debug\net8.0\ref\LoginAPI.dll
